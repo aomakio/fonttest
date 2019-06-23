@@ -1,0 +1,59 @@
+
+
+
+body{
+margin:0;
+text-align: center;
+font-family: 'Sacramento', serif;
+
+}
+
+h1 {margin-top: 0;
+font-family: 'Clicker Script', cursive;
+
+}
+h2 {margin-top: 0;
+font-family: 'Montserrat', sans-serif;
+
+}
+h3 {margin-top: 0;
+  font-family: 'Montserrat',serif;
+
+}
+/*CLASS SELECTORS*/
+.pro-ul{text-decoration:underline;
+
+
+}
+
+
+.top {
+position:relative;
+background-color: #e4f9f5;
+padding-top: 100px;
+}
+
+.middle
+{background-color: green;
+  height: 200px;
+width: 200px;
+padding:20px;
+
+}
+
+.bottom{background-color: red;
+  height: 200px;
+width: 200px;
+
+}
+
+.top-cloud
+{
+position:absolute;
+right: 350px
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px
+}
